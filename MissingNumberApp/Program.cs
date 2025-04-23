@@ -13,8 +13,8 @@ class Program {
 
         // // This variant will check for any missing numbers and display those missing number
         // // This will throw errors non are found
-        // IMissingNumberFinder finder = new MissingNumberFinder();
-        // MissingNumberService service = new MissingNumberService(finder);
+        // IMissingNumbersFinder finder = new MissingNumbersFinder();
+        // MissingNumbersService service = new MissingNumbersService(finder);
         // service.Run();
     }
 }
